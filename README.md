@@ -1,12 +1,12 @@
-<h1 align="center">Hi there I'm Dika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<h1 align="center">Hi there I'm Lisa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=DikaArdnt&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
+    <img src="https://komarev.com/ghpvc/?username=AlisaOfc&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
 </p>
 
 <body>
 <br>
 <div align="center">
-<img src="https://media.tenor.com/WawsnI5b3e4AAAAC/hisoka-hunter-x-hunter.gif" width="300px">
+<img src="https://media.tenor.com/cM3dX0cZS5AAAAAd/shiroko.gif" width="300px">
 </div>
 <br>
 
@@ -16,21 +16,21 @@
 > profile
 ```
 
-<img align="left" src="img/hisokamorou.png" width="130px"/> 
+<img align="left" src="" width="130px"/> 
 
 ```csharp
 My Profile
 -------------------------------
-Username: Dika Ardnt.
-WhoamI: Normal People.
-Telegram: @cak_haho.
-FavouriteAnime: オーバーロード (Overlord).
-Loves: タツマキ (Tatsumaki) (❤️ ω ❤️), Anime 🎮, Manga 🎹.
-Pronouns: He-Him.
-Location: Planet Kepler-452b.
-FavouriteSong: Official髭男dism - Pretender.
+Username: Alisa Noor Alya
+WhoamI: Normal People
+Telegram: @AlisaNoorAlya
+FavouriteAnime: オーバーロード (Overlord)
+Loves: タツマキ (Tatsumaki) (❤️ ω ❤️), Anime 🎮, Manga 🎹
+Pronouns: He-Him
+Location: Planet pluto
+FavouriteSong: Official髭男dism - Pretender
 Hobbies: Watching anime, Read Manga 
-while I am listening music.
+while I am listening music
 ```
 
 
