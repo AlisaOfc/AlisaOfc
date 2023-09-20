@@ -24,7 +24,7 @@ My Profile
 Username: Alisa Noor Alya
 WhoamI: Normal People
 Telegram: @AlisaNoorAlya
-FavouriteAnime: 無初夏 転生 (Mushoka tensei)
+FavouriteAnime: 無職 転生 (Mushoku tensei)
 Loves: ロキシー (Roxy), Anime 🎮, Manga 🎹
 Location: Planet pluto
 FavouriteSong: 青春 あｒ地ヴェ - Seishun archive
